@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Winston Cheaz
-- 🌱 I’m currently learning general knowledge in Java
+- 🌱 I’m currently a student at North Carolina State university, getting better at coding every day!
 - 📫 How to reach me - Email me at winstoncheaz@gmail.com
